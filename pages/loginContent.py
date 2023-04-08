@@ -1,5 +1,0 @@
-users_dict = {'email':['prakharmishra2002@gmail.com','joshuabenzon@gmail.com','omsh97@gmail.com','bhavsh@gmail.com','dure0611@gmail.com','owensvin@gmail.com', 'gargi.asthana@gmail.com'], 'pwd':['admin','admin','admin','admin','admin','nub','nub'], 'username':['Prakhar Mishra','Joshua Benzon','Omkar Shitole','Bhavna Sharma','Duurenbat Batchuluun','Gavrielowens Vincentio','Gargi Asthana']}
-pwd_key = {'prakharmishra2002@gmail.com':'admin','joshuabenzon@gmail.com':'admin','omsh97@gmail.com':'admin','bhavsh@gmail.com':'admin','dure0611@gmail.com':'admin','owensvin@gmail.com':'nub','gargi.asthana@gmail.com':'nub'}
-
-usernames_key = {'prakharmishra2002@gmail.com':'Prakhar Mishra','joshuabenzon@gmail.com':'Joshua Benzon','omsh97@gmail.com':'Omkar Shitole','bhavsh@gmail.com':'Bhavna Sharma','dure0611@gmail.com':'Duurenbat Batchuluun','owensvin@gmail.com':'Gavrielowens Vincentio','gargi.asthana@gmail.com':'Gargi Asthana'}
-admins_list = ['Prakhar Mishra','Joshua Benzon','Omkar Shitole','Bhavna Sharma','Duurenbat Batchuluun']
